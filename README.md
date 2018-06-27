@@ -9,7 +9,7 @@ If you're in any of our official co-working spaces in Singapore, KL or Jogja, yo
 
 Some of you might be co-located in one of our offices in these satellite cities.
 
-Our remuneration package are industry standard and should compare reasonably to the Top 20% in your country.
+Our remuneration package are industry standard and should compare reasonably to the Top 20% in your country. We are looking for talent mostly in Malaysia, Singapore and Jogja but open to anywhere else in the world if you are really keen.
 
 If you think this is a fit for you, read on!
 
