@@ -1,13 +1,11 @@
-# Software Engineer (Geospatial & Business Analysis)
+# Senior Software Engineer (iOS/Android/ReactNative)
 
 ## Minimum Qualifications
 * You write code because you like to.
 * A deep passion for crafting delightful customer experiences.
 * Experience in software development or a serious open source track record.
-* Hands-on experience in designing, developing, testing and deploying applications on Clojure, Ruby, Go or Java for large scale applications. Plus points if you have built something in the geospatial realm.
-* Know trigonometry like you know toa-cah-soh.
-* Plus points if you can explain the Travelling Salesman problem in layman speak.
-* Strong mathematical foundation.
+* Hands-on experience in designing, developing, testing and deploying applications on Ruby, Go, Swift, Obj-C or Java for large scale applications. Plus points if you have built something in the geospatial realm.
+* Implemented a project using sockets.
 * Deep knowledge of Linux as a production environment.
 * Proficient in OOP, including design patterns. Experience with functional programming is a plus.
 * Data modeling experience in both Relational and NoSQL databases.

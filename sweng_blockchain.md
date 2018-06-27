@@ -1,13 +1,12 @@
-# Software Engineer (Geospatial & Business Analysis)
+# Software Engineer (Blockchain & Smart Contracts)
 
 ## Minimum Qualifications
 * You write code because you like to.
 * A deep passion for crafting delightful customer experiences.
 * Experience in software development or a serious open source track record.
-* Hands-on experience in designing, developing, testing and deploying applications on Clojure, Ruby, Go or Java for large scale applications. Plus points if you have built something in the geospatial realm.
-* Know trigonometry like you know toa-cah-soh.
-* Plus points if you can explain the Travelling Salesman problem in layman speak.
-* Strong mathematical foundation.
+* Hands-on experience in designing, developing, testing and deploying applications on Clojure, Ruby, Go, Javascript or Java for large scale applications. Plus points if you have built something in the blockchain or fintech realm.
+* Have been involved in core parts of ethereum blockchain applications and understand how to write a Smart Contract.
+* Plus points for being able to explain the blockchain to a 6 year old.
 * Deep knowledge of Linux as a production environment.
 * Proficient in OOP, including design patterns. Experience with functional programming is a plus.
 * Data modeling experience in both Relational and NoSQL databases.
