@@ -27,7 +27,7 @@ We don't do whiteboarding interviews except when asking about how to solve a pro
 Interviews are 3 rounds.
 
 ## Round 1
-Do a take home unpaid programming project and email it together with a cover letter and resumé to hr@whatshalal.com. Please include your Gmail address as we will do a Hangout interview in Round 2 should you be selected.
+Do a take home unpaid programming project and email it together with a cover letter and resumé to hr@whatshalal.com. Please include your Gmail address as we will do a Hangout interview in Round 2 should you be selected. Pay attention to the cover letter. We check for your writing skills as this is a major requirement.
 
 ## Round 2
 Successful Round 1 applicants will have a hangout interview. We will ask about your previous work, your passions, and request a virtual white board to solve a problem with pseudo-code.
