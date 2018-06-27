@@ -20,7 +20,7 @@ If you think this is a fit for you, read on!
 * [Software Engineer (AI & Machine Learning)](https://github.com/WhatsHalal/jobs/blob/master/sweng_aiml.md)
 * [Data & Software Engineer (Applied Big Data)](https://github.com/WhatsHalal/jobs/blob/master/sweng_bigdata.md)
 * [Devops & Software Engineer (Cloud Infrastructure)](https://github.com/WhatsHalal/jobs/blob/master/sweng_devops.md)
-* [Software Engineer (iOS/Android/ReactNative)](https://github.com/WhatsHalal/jobs/blob/master/sweng_mobile.md)
+* [Senior Software Engineer (iOS/Android/ReactNative)](https://github.com/WhatsHalal/jobs/blob/master/sweng_mobile.md)
 
 We don't do whiteboarding interviews except when asking about how to solve a problem with pseudo-code in Round 2.
 
