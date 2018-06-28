@@ -13,6 +13,10 @@ Our remuneration package are industry standard and should compare reasonably to 
 
 If you think this is a fit for you, read on!
 
+## How we work
+
+To find out more about how we work, just take a look at our [handbook](https://github.com/WhatsHalal/handbook).
+
 ## List of engineering jobs at WhatsHalal
 
 * [Software Engineer (Geospatial & Business Analysis)](https://github.com/WhatsHalal/jobs/blob/master/sweng_geo.md)
