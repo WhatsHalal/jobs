@@ -25,8 +25,9 @@ To find out more about how we work, just take a look at our [handbook](https://g
 * [Data & Software Engineer (Applied Big Data)](https://github.com/WhatsHalal/jobs/blob/master/sweng_bigdata.md)
 * [Devops & Software Engineer (Cloud Infrastructure)](https://github.com/WhatsHalal/jobs/blob/master/sweng_devops.md)
 * [Senior Software Engineer (iOS/Android/ReactNative)](https://github.com/WhatsHalal/jobs/blob/master/sweng_mobile.md)
+* [Junior Designer (UI/UX)](https://github.com/WhatsHalal/jobs/blob/master/designer_uiux.md)
 
-We don't do whiteboarding interviews except when asking about how to solve a problem with pseudo-code in Round 2.
+We **don't do whiteboarding** interviews.
 
 The job application flow in WhatsHalal for Engineers and Designers are 3 stages.
 
