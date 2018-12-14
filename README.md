@@ -27,7 +27,7 @@ We **don't do whiteboarding** interviews.
 The job application flow in WhatsHalal for Engineers and Designers are 3 stages.
 
 ## Round 1
-Email us a cover letter and resumé to hr@whatshalal.com. Please include your Gmail address as we will do a Hangout interview in Round 2 should you be selected. Pay attention to the cover letter. We check for your writing skills as this is a major requirement.
+Email us a cover letter and resumé to hr@whatshalal.com. Please include your Gmail address as we will do a Hangout interview in Round 3 should you be selected. Pay attention to the cover letter. We check for your writing skills as this is a major requirement.
 
 ## Round 2
 If you meet the cut, you will be invited to do a take home unpaid programming test. You must complete the project within the stipulated time.
