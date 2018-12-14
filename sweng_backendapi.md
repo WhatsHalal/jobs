@@ -2,7 +2,7 @@
 
 ## Minimum Qualifications
 
-# Culture
+### Culture
 * You write code because you like to.
 * A deep passion for crafting delightful customer experiences.
 * Passion for learning new things, solving challenging problems.
@@ -12,7 +12,7 @@
 * Punctual-Conscious.
 * Can be straightforwared without being a douche.
 
-# Technical
+### Technical
 * At least 3 years experience in software development or 2 complete SDLC or a serious open source track record (Plus points if you have built something in geospatial, fintech or e-commerce realms).
 * Hands-on experience in designing, developing, testing and deploying applications in Golang.
 * Deep knowledge of Linux as a production environment.
@@ -25,18 +25,18 @@
 * Ability to plan, prioritize, estimate and execute releases with good degree of predictability.
 * Ability to scope, review and refine user stories for technical completeness and to alleviate dependency risks.
 
-# Education
+### Education
 * We value technical prowess over paper qualifications.
 * However, you should have attended a university level degree course and have a basic grounding in CS or OOP before your dropped out.
 * If you didn't drop out, we accept any bachelor's degree so long as you have a demonstrable portfolio or Github project.
 * If you didn't go to university, but have some relevant work experience or open source contribution, you need to have minimally a Diploma in Computer Science or related IT diploma recognised by the Malaysian Higher Education Ministry.
 
-# Language
+### Language
 * Excellent written and spoken English.
 * Good written and spoken Bahasa Malaysia.
 * Capacity to converse in other languages like Mandarin is a plus.
 
-# Visas and Permits
+### Visas and Permits
 * Malaysians of any race or ethnicity will be prioritised.
 * If you are not Malaysian, but have a valid visa and permission to work, you will be shortlisted.
 * If you are not Malaysian, but have a student visa, we will consider you for internship work.
