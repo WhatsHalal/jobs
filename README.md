@@ -19,13 +19,8 @@ To find out more about how we work, just take a look at our [handbook](https://g
 
 ## List of engineering jobs at WhatsHalal
 
-* [Software Engineer (Geospatial & Business Analysis)](https://github.com/WhatsHalal/jobs/blob/master/sweng_geo.md)
-* [Software Engineer (Blockchain & Smart Contracts)](https://github.com/WhatsHalal/jobs/blob/master/sweng_blockchain.md)
-* [Software Engineer (AI & Machine Learning)](https://github.com/WhatsHalal/jobs/blob/master/sweng_aiml.md)
-* [Data & Software Engineer (Applied Big Data)](https://github.com/WhatsHalal/jobs/blob/master/sweng_bigdata.md)
-* [Devops & Software Engineer (Cloud Infrastructure)](https://github.com/WhatsHalal/jobs/blob/master/sweng_devops.md)
-* [Senior Software Engineer (iOS/Android/ReactNative)](https://github.com/WhatsHalal/jobs/blob/master/sweng_mobile.md)
-* [Junior Designer (UI/UX)](https://github.com/WhatsHalal/jobs/blob/master/designer_uiux.md)
+* [Software Engineer (Backend & API)](https://github.com/WhatsHalal/jobs/blob/master/sweng_backendapi.md)
+* [Software Engineer (iOS/Android/ReactNative)](https://github.com/WhatsHalal/jobs/blob/master/sweng_mobile.md)
 
 We **don't do whiteboarding** interviews.
 

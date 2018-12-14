@@ -1,4 +1,4 @@
-# Software Engineer (iOS/Android/ReactNative)
+# Software Engineer (Backend & API)
 
 ## Minimum Qualifications
 
@@ -14,14 +14,13 @@
 
 # Technical
 * At least 3 years experience in software development or 2 complete SDLC or a serious open source track record (Plus points if you have built something in geospatial, fintech or e-commerce realms).
-* Hands-on experience in designing, developing, testing and deploying applications in iOS or Android.
-* Competent in ReactNative.
-* Deep knowledge of sockets and pubsub and developing for low latency, high usage mobile applications.
-* Proficient in OOP, including design patterns.
+* Hands-on experience in designing, developing, testing and deploying applications in Golang.
+* Deep knowledge of Linux as a production environment.
+* Proficient in OOP, including design patterns. Experience with functional programming is a plus but not required.
 * Data modelling experience in Relational databases.
 * Ability to understand and implement Continuous Integration and Continuous Delivery.
 * Well versed with Lean methodologies, TDD and Test Engineering and Automation.
-* Competetent in consuming RESTful services and able to traverse JSON and XML.
+* Ability to design and implement low latency, scalable, RESTful services.
 * Excellent understanding of interactive application development paradigm, memory management, performance/resource. optimizations, database interactions, network programming, concurrency and multithreading, fault tolerance, monitoring, security and operability of systems.
 * Ability to plan, prioritize, estimate and execute releases with good degree of predictability.
 * Ability to scope, review and refine user stories for technical completeness and to alleviate dependency risks.
