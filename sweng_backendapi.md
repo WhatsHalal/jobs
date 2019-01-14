@@ -54,7 +54,7 @@
 
 ## Remuneration
 * For the experience and quality we are looking for, we will pay from MYR 6,000.
-* This is a Contract job for 1 year and is renewable.
+* This is a permanent employment opportunity.
 * You must be able to start in February or March 2019.
 
 We regret only shortlisted candidates will be contacted. If you have what it takes to be a WhatsHalal Engineer, please email your CV to hr@whatshalal.com.
